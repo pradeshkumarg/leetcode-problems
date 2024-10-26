@@ -1,4 +1,4 @@
 ##### Random Questions
 
-[1233. remove-sub-folders-from-the-filesystem](random/1233.%20remove-sub-folders-from-the-filesystem.md)
+[1233. Remove Sub-Folders from the Filesystem](1233.%20Remove%20Sub-Folders%20from%20the%20Filesystem.md)
 
